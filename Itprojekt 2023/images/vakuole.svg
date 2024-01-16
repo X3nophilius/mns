@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <path style="pointer-events: all; fill: rgb(41, 146, 255); stroke-width: 4px; stroke: rgb(63, 168, 255); transform-box: fill-box; transform-origin: 50% 50%;" onclick="document.location.href='organell.php?organell=vakuole'" d="M 259.383 166.009 C 371.482 154.613 425.619 91.503 468.376 154.946 C 562.709 294.931 253.459 416.241 98.841 357.975 C 30.653 332.28 -4.847 250.855 24.352 190.004 C 62.128 111.265 161.22 175.982 259.383 166.009 Z" transform="matrix(0.007171, -0.999974, 0.999974, 0.007171, 0, -0.000001)"/>
+</svg>

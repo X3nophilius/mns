@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path style="pointer-events: fill; fill: rgb(150, 244, 255); stroke-opacity: 0; transform-box: fill-box; transform-origin: 50% 50%;" onclick="document.location.href='organell.php?organell=cytoplasma'" d="M 45.455 18.214 C 48.485 17.17 51.515 17.17 54.545 18.214 L 83.333 28.137 C 86.363 29.182 88.253 30.878 89.001 33.224 L 96.111 55.521 C 96.859 57.869 96.185 59.983 94.088 61.865 L 74.166 79.746 C 72.07 81.628 69.34 82.569 65.976 82.569 L 34.024 82.569 C 30.661 82.569 27.931 81.628 25.834 79.746 L 5.912 61.865 C 3.816 59.983 3.141 57.869 3.889 55.521 L 10.999 33.224 C 11.748 30.878 13.637 29.182 16.667 28.137 L 45.455 18.214 Z" transform="matrix(0, 1, -1, 0, 0.000001, 0.000008)"/>
+</svg>

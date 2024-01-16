@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 80.476 50 A 30.476 30.476 0 0 1 50 80.476 A 30.476 30.476 0 0 1 19.524 50 A 30.476 30.476 0 0 1 50 19.524 A 30.476 30.476 0 0 1 80.476 50 Z" style="fill: none; stroke-width: 3px; stroke-linecap: round; stroke-dasharray: 20, 10, 20, 5, 10, 5; stroke-dashoffset: 39px; stroke: rgb(85, 114, 211);"/>
+  <path d="M 84.887 49.963 A 34.758 34.758 0 0 1 50.129 84.721 A 34.758 34.758 0 0 1 15.371 49.963 A 34.758 34.758 0 0 1 50.129 15.205 A 34.758 34.758 0 0 1 84.887 49.963 Z" style="fill: none; stroke-width: 3px; stroke-dasharray: 40, 4, 20, 5, 10; stroke-linecap: round; stroke: rgb(113, 103, 214);"/>
+</svg>
