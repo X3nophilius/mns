@@ -1,0 +1,9 @@
+Der Zellkern ist ein zelluläres Organell, das in den meisten eukaryotischen Zellen vorkommt und als zentrales Steuerzentrum fungiert. Strukturell betrachtet handelt es sich beim Zellkern um eine doppelte Membranstruktur, die den Zellkerninhalt vom umgebenden Zytoplasma abgrenzt. Die Membran des Zellkerns weist Poren auf, die den Austausch von Molekülen zwischen dem Zellkern und dem Zytoplasma ermöglichen.
+
+Die primäre Aufgabe des Zellkerns liegt in der Speicherung und Verwaltung der genetischen Information in Form von DNA (Desoxyribonukleinsäure). Innerhalb des Zellkerns befinden sich Chromosomen, die aus langen DNA-Molekülen und Proteinen bestehen. Diese Chromosomen tragen die genetischen Anweisungen, die für die Entwicklung, den Aufbau und die Funktionsweise der Zelle verantwortlich sind.
+
+Der Zellkern spielt eine Schlüsselrolle bei der Steuerung der zellulären Aktivitäten durch die Regulation der Genexpression. Genexpression bezieht sich auf den Prozess, durch den die in der DNA enthaltenen genetischen Informationen in RNA (Ribonukleinsäure) umgeschrieben werden. Diese RNA wird dann als Vorlage für die Proteinsynthese im Zytoplasma verwendet.
+
+Die Poren in der Kernmembran ermöglichen den kontrollierten Transport von Molekülen zwischen dem Zellkern und dem Zytoplasma. Dieser Transport erfolgt über verschiedene Transportproteine und ermöglicht den Austausch von RNA, Proteinen und anderen Molekülen, die für die genetische Steuerung und den zellulären Stoffwechsel relevant sind.
+
+Zusammengefasst ist der Zellkern essentiell für die Erhaltung und Übertragung genetischer Information. Durch die Regulation der Genexpression trägt der Zellkern maßgeblich zur Koordination von zellulären Aktivitäten und zur Aufrechterhaltung der zellulären Homöostase bei.

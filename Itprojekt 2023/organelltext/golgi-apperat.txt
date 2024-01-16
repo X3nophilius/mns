@@ -1,0 +1,9 @@
+Der Golgi-Apparat, auch Golgi-Complexe oder Golgi-System genannt, ist ein zelluläres Organell, das eine Schlüsselrolle im Proteinstoffwechsel und dem Transport von Molekülen innerhalb der Zelle spielt. Morphologisch betrachtet besteht der Golgi-Apparat aus gestapelten flachen Membranscheiben, den sogenannten Dictyosomen.
+
+Die Hauptfunktion des Golgi-Apparats besteht darin, Proteine und Lipide, die im endoplasmatischen Retikulum (ER) synthetisiert wurden, zu modifizieren, zu sortieren und zu verteilen. Nachdem Proteine durch das endoplasmatische Retikulum transportiert wurden, gelangen sie in den Golgi-Apparat, wo verschiedene posttranslationale Modifikationen stattfinden. Dazu gehören beispielsweise das Anhängen von Zuckergruppen (Glykosylierung), das Hinzufügen von Lipiden oder das Schneiden von bestimmten Proteinabschnitten.
+
+Der Golgi-Apparat spielt auch eine entscheidende Rolle beim Sortieren und Verpacken von Proteinen in Vesikeln für den Transport zu verschiedenen Zielorten innerhalb oder außerhalb der Zelle. Ein Teil der Vesikel fusioniert mit der Zellmembran und gibt ihren Inhalt nach außen ab, ein Prozess, der als Exozytose bekannt ist. Andere Vesikel transportieren modifizierte Proteine zu spezifischen Organellen oder Sekretionsvesikeln.
+
+Zusätzlich zu seiner Funktion im Proteintransport ist der Golgi-Apparat auch an der Synthese von Polysacchariden und anderen Komplexen beteiligt. Diese können in der Zelle als Baustoffe oder zur Bildung von Zellmembranen dienen.
+
+Insgesamt ist der Golgi-Apparat ein wesentlicher Bestandteil des zellulären Protein- und Lipidstoffwechsels. Durch die präzise Koordination von Modifikations- und Sortierprozessen trägt der Golgi-Apparat dazu bei, dass Zellen ihre Proteine und andere Moleküle effizient und zielgerichtet einsetzen können.

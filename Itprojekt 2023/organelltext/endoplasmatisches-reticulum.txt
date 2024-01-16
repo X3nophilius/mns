@@ -1,0 +1,9 @@
+Das endoplasmatische Retikulum (ER) ist ein membranumhülltes Organell in eukaryotischen Zellen, das sich in direkter Verbindung mit dem Zellkern befindet. Es besteht aus einem Netzwerk von membranösen Tubuli und Vesikeln und lässt sich in zwei Haupttypen unterteilen: das raue endoplasmatische Retikulum (RER) und das glatte endoplasmatische Retikulum (SER).
+
+Das raue endoplasmatische Retikulum ist durch Ribosomen auf seiner Oberfläche gekennzeichnet, was ihm ein "raues" Aussehen verleiht. Die Hauptaufgabe des RER besteht in der Synthese von Proteinen. Ribosomen am RER binden sich an mRNA-Moleküle und leiten die Produktion von Proteinen, die für den Export oder die Integration in die Zellmembran bestimmt sind.
+
+Das glatte endoplasmatische Retikulum hingegen enthält keine Ribosomen und ist in zahlreiche Stoffwechselaktivitäten involviert. Es spielt eine Schlüsselrolle bei der Synthese von Lipiden und Steroidhormonen sowie im Abbau von Kohlenhydraten und der Entgiftung von schädlichen Substanzen.
+
+Beide Arten des endoplasmatischen Retikulums sind miteinander verbunden und ermöglichen den Transport von Molekülen innerhalb der Zelle. Dieser Transport erfolgt durch Vesikel, die von den Membranen des ER abknospen und zu verschiedenen Zielorten innerhalb der Zelle wandern.
+
+Zusammengefasst ist das endoplasmatische Retikulum ein zentrales Organell für die Synthese, Modifikation und den Transport von Proteinen und Lipiden in der Zelle. Es spielt eine entscheidende Rolle im zellulären Stoffwechsel und ist wesentlich für die Aufrechterhaltung der zellulären Homöostase und Funktion.
