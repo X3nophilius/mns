@@ -1,0 +1,158 @@
+.colorvar{
+    --text-color:var(--text-color);
+}
+
+body{
+    position: absolute;
+    height:100%;
+    width:100%;
+    margin:auto;
+    background: var(--body-bg-color);
+}
+
+.layer1{
+    position:absolute;
+    top:20vh;
+    left:50vw;
+    width:65vw;
+    height:65vh;
+    transform: translate(-50%,-50%); 
+    z-index: 2;
+}
+
+.layer1 svg{
+    position:absolute;
+    cursor:hand;
+    transition: 0.5s;
+}
+
+.layer1 svg:hover {
+    transform: scale(110%);
+}
+
+.layer2{
+    position:absolute;
+    top:20vh;
+    left:50vw;
+    width:65vw;
+    height:65vh;
+    transform: translate(-50%,-50%); 
+    z-index: 1;
+}
+
+.layer2 svg{
+    position:absolute;
+    cursor:hand;
+    transition: 0.5s;
+}
+
+.layer3{
+    position:absolute;
+    top:20vh;
+    left:50vw;
+    width:65vw;
+    height:65vh;
+    transform: translate(-50%,-50%); 
+    z-index: 0;
+}
+
+.layer3 svg{
+    position:absolute;
+    cursor:hand;
+    transition: 0.5s;
+}
+
+#title{
+    position: relative;
+    color:rgb(255,255,255);
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-size:5vh;
+    width:100%;
+    margin:auto;
+    text-align:center;
+    align-self: center;
+    top:85vh;
+}
+
+.top{
+    position: relative;
+    align-items: center;
+    width: 100%;
+    height: 200vh;
+    top: -40vh;
+    z-index: 10;
+    background: var(--main-bg-color);/*rgb(47,46,68)*/
+    clip-path: polygon(0% 70%, 50% 100%,100% 70%,100% 0%,0% 0%);
+}
+
+::-webkit-scrollbar{
+    display: none;
+    opacity: 0%;
+}
+
+.fixed{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin:auto;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.main-page{
+    position: fixed;
+    margin:auto;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+}
+
+.arrow {
+    position: absolute;
+    z-index: 2;
+    bottom: 35%;
+    left: calc(50% - 2px);
+    width: 5px;
+    height: 45px;
+    background:var(--main-bg-color);
+
+    animation: bounce 1s cubic-bezier(.19,.38,0,1) infinite;
+
+    &::after {
+        content: '';
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        bottom: 0;
+        left: -12.5px;
+        border-bottom: solid var(--body-bg-color) 5px;
+        border-right: solid var(--body-bg-color) 5px;
+        
+        transform: rotate(45deg);
+    }
+}
+
+@keyframes bounce {
+0%, 100% {
+    transform: translateY(-4px);
+}
+
+50% {
+    transform: translateY(4px);
+}
+}
+
+#light,#dark{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    background-color: var(--body-bg-color);
+    border-radius: 0 20px 0 0;
+    width: 3vw;
+    height: 3vw;
+    border: 2px solid var(--border-color);
+    border-bottom: none;
+    border-left:none;
+}
